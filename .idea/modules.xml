@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/springjdbc.iml" filepath="$PROJECT_DIR$/springjdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springjdbcanno/springjdbcanno.iml" filepath="$PROJECT_DIR$/../springjdbcanno/springjdbcanno.iml" />
     </modules>
   </component>
 </project>

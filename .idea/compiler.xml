@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="springjdbc" />
+        <module name="springjdbcanno" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="springjdbc" target="12" />
+      <module name="springjdbcanno" target="12" />
     </bytecodeTargetLevel>
   </component>
 </project>
